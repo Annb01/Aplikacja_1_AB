@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel;
 
-//klasa bazowa, która implementuje powiadomienia o zmianie właściwości
 
 namespace Aplikacja1_A.B.ViewModel
 {
