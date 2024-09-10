@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bubul\\Documents\\School\\Prog IV\\Aplikacja1_A.B\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj": {}
+    "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bubul\\Documents\\School\\Prog IV\\Aplikacja1_A.B\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj": {
+    "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bubul\\Documents\\School\\Prog IV\\Aplikacja1_A.B\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+        "projectUniqueName": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
         "projectName": "Aplikacja1_A.B",
-        "projectPath": "C:\\Users\\bubul\\Documents\\School\\Prog IV\\Aplikacja1_A.B\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+        "projectPath": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
         "packagesPath": "C:\\Users\\bubul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bubul\\Documents\\School\\Prog IV\\Aplikacja1_A.B\\Aplikacja1_A.B\\obj\\",
+        "outputPath": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,28 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "MahApps.Metro.IconPacks.Material": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -68,7 +90,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400-preview.0.24324.5/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

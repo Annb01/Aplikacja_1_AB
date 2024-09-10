@@ -7,7 +7,45 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Profile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Rearch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Rejestracja.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\DeleteV.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Profile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Rearch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Rejestracja.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DeleteV.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

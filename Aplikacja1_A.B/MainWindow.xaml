@@ -6,7 +6,6 @@
         xmlns:local="clr-namespace:Aplikacja1_A.B"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+    <Border CornerRadius="50">
+    </Border>
 </Window>

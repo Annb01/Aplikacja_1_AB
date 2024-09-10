@@ -1,6 +1,7 @@
 ﻿using System.Configuration;
 using System.Data;
 using System.Windows;
+using Aplikacja1_A.B.View;
 
 namespace Aplikacja1_A.B
 {
@@ -9,6 +10,14 @@ namespace Aplikacja1_A.B
     /// </summary>
     public partial class App : Application
     {
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            base.OnStartup(e);
+            var loginView = new LoginView();
+            loginView.Show();
+        }
+
+
     }
 
 }

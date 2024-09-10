@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\bubul\Documents\School\Prog IV\Aplikacja1_A.B\Aplikacja1_A.B\obj\Debug\net8.0-windows\
+C:\Users\bubul\Documents\School\4_semestr\PIV\Aplikacja_1_AB\Aplikacja1_A.B\obj\Debug\net8.0-windows\
 Aplikacja1_A.B
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\bubul\Documents\School\Prog IV\Aplikacja1_A.B\Aplikacja1_A.B\App.xaml
-11407045341
+C:\Users\bubul\Documents\School\4_semestr\PIV\Aplikacja_1_AB\Aplikacja1_A.B\App.xaml
+81624102875
 
-61813688233
-198-688555687
-MainWindow.xaml;
+20101373911
+205571453638
+CustomeControls\BindablePasswordBox.xaml;MainWindow.xaml;View\DeleteV.xaml;View\LoginView.xaml;View\MainView.xaml;View\Profile.xaml;View\Rearch.xaml;View\Rejestracja.xaml;
 
 False
 

@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\rejestracja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\rejestracja.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\rearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\rearch.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\profile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\deletev.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\deletev.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\model\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\model\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\customecontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\customecontrols\\bindablepasswordbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\profile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\viewmodel\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\viewmodel\\viewmodelcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\deletev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\deletev.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\rejestracja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\rejestracja.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\view\\rearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\view\\rearch.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\aplikacja1_a.b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\aplikacja1_a.b.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\customecontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\customecontrols\\bindablepasswordbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\aplikacja1_a.b\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B81D0EA-3FD7-4278-BFCF-8F8ADB865B1F}|Aplikacja1_A.B\\Aplikacja1_A.B.csproj|solutionrelative:aplikacja1_a.b\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBC510-4EF8-492A-A2F1-3D50450EA6E4}|TestProject3\\TestProject3.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\testproject3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91BBC510-4EF8-492A-A2F1-3D50450EA6E4}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BBC510-4EF8-492A-A2F1-3D50450EA6E4}|TestProject3\\TestProject3.csproj|c:\\users\\bubul\\documents\\school\\4_semestr\\piv\\aplikacja_1_ab\\testproject3\\testproject3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91BBC510-4EF8-492A-A2F1-3D50450EA6E4}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\testproject3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T20:11:24.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:48:42.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Profile.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Profile.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Profile.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Profile.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T21:21:47.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\DeleteV.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\DeleteV.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\DeleteV.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\DeleteV.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:03:02.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\LoginView.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\LoginView.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:31:25.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Model\\UserModel.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:48:40.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Model\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\Model\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Model\\IUserRepository.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\Model\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:48:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\MainView.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\MainView.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\MainView.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T21:53:19.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rearch.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rearch.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Rearch.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rearch.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Rearch.xaml.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:39:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rejestracja.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rejestracja.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Rejestracja.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rejestracja.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Rejestracja.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:19:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BindablePasswordBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:21:25.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\SQLQuery1.sql",
+              "RelativeToolTip": "Aplikacja1_A.B\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-16T10:37:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Profile.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Profile.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Profile.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Profile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T20:54:43.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:12:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:35:23.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewModelCommand.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\ViewModelCommand.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\ViewModel\\ViewModelCommand.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\ViewModel\\ViewModelCommand.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\ViewModel\\ViewModelCommand.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:35:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\MainView.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\MainView.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\MainView.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T17:55:33.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteV.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\DeleteV.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\DeleteV.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\DeleteV.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\DeleteV.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T12:48:07.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Rejestracja.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rejestracja.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Rejestracja.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rejestracja.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Rejestracja.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T16:27:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\App.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:44:47.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rearch.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rearch.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\View\\Rearch.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\View\\Rearch.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\View\\Rearch.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-02T19:12:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aplikacja1_A.B.csproj",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+              "RelativeToolTip": "Aplikacja1_A.B\\Aplikacja1_A.B.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T19:47:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BindablePasswordBox.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\CustomeControls\\BindablePasswordBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T22:26:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\App.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\App.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\App.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T18:44:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\MainWindow.xaml",
+              "RelativeToolTip": "Aplikacja1_A.B\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T18:44:28.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\AssemblyInfo.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:17:51.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aplikacja1_A.B\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\Aplikacja1_A.B\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aplikacja1_A.B\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:48:26.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\TestProject3\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject3\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\TestProject3\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject3\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:02:54.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TestProject3.csproj",
+              "DocumentMoniker": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\TestProject3\\TestProject3.csproj",
+              "RelativeDocumentMoniker": "TestProject3\\TestProject3.csproj",
+              "ToolTip": "C:\\Users\\bubul\\Documents\\School\\4_semestr\\PIV\\Aplikacja_1_AB\\TestProject3\\TestProject3.csproj",
+              "RelativeToolTip": "TestProject3\\TestProject3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T13:13:07.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
