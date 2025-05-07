@@ -1,4 +1,4 @@
-Aplikacja do wyszukiwania artykułów naukowych
+#BrainyBrowse
 
 Technologie: .NET (WPF), SQL, darmowe API
 
